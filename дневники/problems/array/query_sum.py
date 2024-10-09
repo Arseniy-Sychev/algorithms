@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/range-sum-query-immutable/
+
 Given an integer array nums, handle multiple queries of the following type:
 
 Calculate the sum of the elements of nums

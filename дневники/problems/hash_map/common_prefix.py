@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/
+
 ОБЩИЙ ПРЕФИКС
 
 You are given two 0-indexed integer permutations A and B of length n.

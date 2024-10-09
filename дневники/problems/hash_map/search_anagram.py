@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
+
 ПОИСК АНАГРАМ В СТРОКЕ
 
 Given two strings s and p, return an array of all 

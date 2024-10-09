@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/h-index/description/
+
 H ИНДЕКС
 
 Given an array of integers citations where citations[i]

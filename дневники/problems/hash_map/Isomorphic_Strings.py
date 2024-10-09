@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/isomorphic-strings/description/
+
 ИЗОМОРФНЫЕ СТРОКИ
 
 Паттерн maзping

@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/valid-anagram/description/
+
 АНАГРАМЫ
 
 Даны две сстроки s и t, нужно вернуть True если t является аннограмой s

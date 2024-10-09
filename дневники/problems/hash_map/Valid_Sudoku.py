@@ -1,4 +1,6 @@
 '''
+https://leetcode.com/problems/valid-sudoku/description/
+
 ПРАВИЛЬНОЕ СУДОКУ
 
 Determine if a 9 x 9 Sudoku board is valid.
